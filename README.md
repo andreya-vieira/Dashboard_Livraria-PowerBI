@@ -19,7 +19,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Dashboard feito em Power BI para uma livraria com o objetivo de realizar análises para tomada de decisôes.
+  Dashboard feito em Power BI para uma livraria com o objetivo de realizar análises para tomada de decisões.
   
   ### Para análise dos indicadores abaixo:
 
