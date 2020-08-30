@@ -60,4 +60,4 @@ Responsável pelo desenvolvimento do projeto
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2020 - Titulo do Projeto
+Copyright :copyright: 2020 - Projeto Livraria - Entrelinhas
