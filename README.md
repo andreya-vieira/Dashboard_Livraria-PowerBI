@@ -1,12 +1,12 @@
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>Projeto Livraria - Entrelinhas </h1> 
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=Power BI&message=VISUALIZAÇÃO_DE_DADOS&color=GREEN&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=Power BI&message=PROJETO_DE_BUSSINES_INTELLIGENCE &color=BLUE&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=BLUE&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=BLUE&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning: (concluido)
 
 ### Tópicos 
 
@@ -22,41 +22,31 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Dashboard feito em Power Bi para uma análise com o objetivo de realizar análises para tomada de decisôes.
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Home 
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Visão
 
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Detalhes
 
 ## Pré-requisitos
 
 :warning: [Power Bi](https://powerbi.microsoft.com/pt-br/downloads/)
-:warning: [Base de Dados](Sharepoint? Local)
+:warning: [Base de Dados](Planilha em Excel)
 
 ## Casos de Uso
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. Exemplo, disponibilizar em um site pra acesso do cliente, coisas desse tipo, só pra demostrar a visão para uso do report. 
+Disponibilizar em um site/mobile para acesso do cliente.
 
 ## Dependencias e libs utilizadas :books:
 
-- [Imagens Externas por exemplo](link de onde pegou)
+- [Linguagem Dax]
 
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ou que gostaria que fossem implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
+- [Capa](https://www.plymouthpubliclibrary.org/wp-content/uploads/2018/12/books-1281581_1920.jpg)
 
 ## Desenvolvedores/Contribuintes :octocat:
 
