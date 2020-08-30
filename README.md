@@ -36,6 +36,7 @@
 ## Pré-requisitos
 
 :warning: [Power Bi](https://powerbi.microsoft.com/pt-br/downloads/)
+
 :warning: [Base de Dados](Planilha em Excel)
 
 ## Casos de Uso
@@ -50,7 +51,7 @@ Disponibilizar em um site/mobile para acesso do cliente.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
+Responsável pelo desenvolvimento do projeto
 
 [<img src="https://avatars1.githubusercontent.com/u/70026063?s=460&v=4" width=115><br><sub>Andreya Vieira</sub>](https://github.com/andreya-vieira) |
 | :---: | :---: |
