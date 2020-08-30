@@ -19,14 +19,22 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Dashboard feito em Power Bi para uma análise com o objetivo de realizar análises para tomada de decisôes.
-  Para análise dos indicadores abaixo:
+  Dashboard feito em Power BI para uma análise com o objetivo de realizar análises para tomada de decisôes.
+  
+  ### Para análise dos indicadores abaixo:
+
 - Produtos mais vendidos por quantidade;
+
 - Maiores compradores por quantidade(top 5);
+
 - Maiores compradores por valor;
+
 - Timelie de quantidade de vendas por mês e ano;
+
 - Total de vendas por estado;
+
 - Total de Faturamento por categoria;
+
 - Categoria de produtos menos vendida (top 1);
 </p>
 
