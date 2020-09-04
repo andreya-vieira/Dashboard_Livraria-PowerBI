@@ -1,7 +1,7 @@
 <h1>Projeto Livraria - Entrelinhas </h1> 
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=Power BI&message=PROJETO_DE_BUSSINES_INTELLIGENCE &color=BLUE&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=Power BI&message=PROJETO_DE_BUSINESS_INTELLIGENCE &color=BLUE&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=BLUE&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=BLUE&style=for-the-badge"/>
 </p>
