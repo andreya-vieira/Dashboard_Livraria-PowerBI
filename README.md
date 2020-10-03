@@ -29,7 +29,7 @@
 
 - Maiores compradores por valor;
 
-- Timelie de quantidade de vendas por mês e ano;
+- Timeline de quantidade de vendas por mês e ano;
 
 - Total de vendas por estado;
 
